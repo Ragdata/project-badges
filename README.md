@@ -1,10 +1,10 @@
 # The Project Badges Project
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/Ragdata/project-badges/pulls)
 <div style="text-align: center;"><a href="CONTRIBUTORS.md">CONTRIBUTORS</a> &nbsp;&nbsp; :small_blue_diamond: &nbsp;&nbsp; <a href="README.md">MAIN README</a></div>
 
 ****
 
-<img src="https://www.gravatar.com/avatar/60d7694fd85aa74e6ad9529ddccf102e?s=130" style="float: right; margin-top: -15px; margin-left: 10px;" alt="Gravatar" />
+<img src="https://www.gravatar.com/avatar/60d7694fd85aa74e6ad9529ddccf102e?s=130" align="right" alt="Gravatar" />
 
 For better or worse, this is a documentation project dedicated entirely to those tiny, colourful infograms we love to collect on our README's.  Not only is it intended to be as exhaustive a list as can made with as little effort possible, it is also intended to be an homage to the progenitors of 'the badge' and in through this project hope to both learn and teach about the origins of what has arguably become a standard of sorts within the open source community.
 
@@ -30,6 +30,7 @@ Contributions from the community are welcomed - after all, who am I to turn away
 ### Our Badges
 
 * [THE ULTRA-EXCLUSIVE PROJECT BADGES PROJECT BADGES](docs/ultra.md)
+* [The Not-So-Exclusive Project Badges Project Badges](docs/badges.md)
 
 ****
 
