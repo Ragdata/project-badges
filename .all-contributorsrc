@@ -1,0 +1,17 @@
+{
+  "files": ["CONTRIBUTORS.md"],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/Project_Badges_Contributor-ULTRA_EXCLUSIVE_BADGE-yellow?style=flat&logo=GitHub%20Sponsors&logoColor=white)]",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "",
+      "description": "Contributed Previously Unknown Badge",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
+  "contributors": []
+}
