@@ -1,4 +1,16 @@
-# Contributor Covenant Code of Conduct
+<h3 align="center">
+<img src="https://www.gravatar.com/avatar/60d7694fd85aa74e6ad9529ddccf102e?s=125" alt="Gravatar" />
+</h3>
+<h1 align="center">
+Contributor Covenant Code of Conduct
+</h1>
+<hr />
+<h2 align="center">
+<a href="https://github.com/Ragdata/project-badges/blob/master/README.md">MAIN README</a>
+&nbsp;&nbsp; <b>&middot;</b> &nbsp;&nbsp;
+<a href="https://github.com/Ragdata/project-badges/wiki/Home">PROJECT WIKI</a>
+</h2>
+<hr />
 
 ## Our Pledge
 
@@ -74,3 +86,15 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+<hr />
+<h3 align="center">
+<a href="https://github.com/Ragdata/project-badges/blob/master/CODE_OF_CONDUCT.md">CODE OF CONDUCT</a>
+&nbsp;&nbsp; <b>&middot;</b> &nbsp;&nbsp;
+<a href="https://github.com/Ragdata/project-badges/blob/master/CONTRIBUTING.md">HOW TO CONTRIBUTE</a>
+</h3>
+<hr />
+<h4 align="center">
+<a href="https://github.com/Ragdata/project-badges/blob/master/LICENSE">THIS PROJECT GOVERNED BY THE TERMS OF THE CREATIVE COMMONS ZERO V1.0 UNIVERSAL LICENSE</a>
+</h4>
+<hr />
