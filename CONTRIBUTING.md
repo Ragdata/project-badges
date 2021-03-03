@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://www.gravatar.com/avatar/60d7694fd85aa74e6ad9529ddccf102e?s=125" alt="Gravatar" />
+<img src="https://i.imgur.com/4QiPW4W.png" alt="Ragdata - the Red-Eyed Renegade" />
 </h3>
 <h1 align="center">
 How to Contribute
